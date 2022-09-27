@@ -1,6 +1,9 @@
 # spark-streaming-kafka-tweets
 
 
+### video [here](https://vimeo.com/754404997)
+
+
 1 -- Zookeeper
 
 starting a Zookeeper instance.
