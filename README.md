@@ -40,8 +40,10 @@ Create a new topic named `tweets`
 
 Starting the Hadoop cluster.
 
+```bash
 ~$ hdfs namenode -format
 ~$ start-dfs.sh 
+```
 
 4 -- Hive Metastore
 ~$ hive --service metastore
